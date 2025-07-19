@@ -1,5 +1,6 @@
 {
     "name": "escape the chefs ( because you are a carrot with a jet pack",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
